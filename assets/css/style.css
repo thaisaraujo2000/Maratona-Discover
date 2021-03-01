@@ -232,6 +232,7 @@ td.expense {
 
     opacity: 0;
     visibility: hidden;
+    transition: 0.5s;
 }
 
 
@@ -251,6 +252,7 @@ td.expense {
     max-width: 600px;
 
     z-index: 1;
+    transition: 0.5s;
 }
 
 .modal h2 {
